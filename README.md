@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Zakaria Ben Salem</h1>
+<h1 align="center">I'm Zakaria Ben Salem</h1>
 <h3 align="center">A computer science Engineering student</h3>
 
 - 🔭 I’m currently working on **A node backend application**
 
-- 🌱 I’m currently **setting up my arch linux rice**
+- 🌱 I’m currently **teaching git /github**
 
 - 👯 I’m looking to collaborate on **Python projects**
 
